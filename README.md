@@ -1,1 +1,1 @@
-# JavaScript-course
+JavaScript course taken in Udemy
