@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+ /* el margen y el padding no se les puede agregar color, son trasnparentes */
+
+.div1 {
+    padding: 10px;
+    border: 15px solid #457b9d;
+     margin: auto; /*esta propiedad centran el elemento */
+    background-color: #f1faee;
+    width: 300px;
+}
+
+.div2 { 
+    padding: 10px;
+    border: 15px solid #457b9d;
+    margin: auto;
+    background-color: #f1faee;
+    width: 300px;
+    outline: 10px outset #a8dadc;  
+}
+
+.div3 { 
+    padding: 10px;
+    border: 15px solid #457b9d;
+    margin: auto;
+    background-color: #f1faee;
+    width: 300px;
+    outline: 10px solid #a8dadc;  
+    outline-offset: 10px;
+}
